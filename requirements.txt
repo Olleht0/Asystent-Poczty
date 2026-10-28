@@ -1,0 +1,6 @@
+FastAPI
+Streamlit
+Pydantic
+pytest
+ollama
+sqlalchemy
